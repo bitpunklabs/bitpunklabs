@@ -1,6 +1,4 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/header.png">
-  <img src="./assets/header.svg?v=solid-3d-1" alt="BITPUNK — a stone hand holding a closed safety pin." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/header.png?v=ascii-solid-1">
+  <img src="./assets/header.svg?v=ascii-solid-1" alt="BITPUNK — Research, indicators and open-source tools for those who read the market. Rotating orange ASCII asterisk." width="100%">
 </picture>
-
-Research, indicators and open-source tools for those who read the market.
